@@ -36,4 +36,9 @@ class Rectangle
    {
       return (width + height) * 2;
    }
+   
+   public static int numberOfRectangles() {
+     // class method references class variable
+     return nextId -1;
+   }
 }
