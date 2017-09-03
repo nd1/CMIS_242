@@ -1,0 +1,5 @@
+Male Undergraduate Smith,John CMIS
+Female Student Jones,Jill CMSC
+Male Student Brown,Jack CSEC
+Female Graduate Brown,Jane CCSEC CMIS
+Male Student Smith,Jack CMSC
