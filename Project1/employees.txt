@@ -1,0 +1,9 @@
+2014 Executive Smith,Jane 7000 51
+2015 Executive Jones,Jill 7000 50
+2014 Executive Bush,George 5000 49
+2014 Employee Smith,Jane 2000
+2015 Employee Jones,Jill 4000
+2014 Employee Bush,George 3000
+2014 Salesman Smith,Jane 3000 1000000
+2015 Salesman Jones,Jill 4000 2000000
+2014 Salesman Bush,George 3000 500000
